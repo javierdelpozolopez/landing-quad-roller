@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ff0000;
+}
+
+.bg-image{
+    background-image: url('img.jpg');
+    background-position: top;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+}
+
+.bg-image img{
+    width: 100%;
+}
